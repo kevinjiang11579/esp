@@ -31,7 +31,7 @@
 	url = https://github.com/sld-columbia/nvdla-sw.git
 [submodule "rtl/caches/esp-caches"]
 	path = rtl/caches/esp-caches
-	url = https://github.com/sld-columbia/esp-caches.git
+	url = https://github.com/kevinjiang11579/esp-caches.git
 [submodule "rtl/cores/ibex/ibex"]
 	path = rtl/cores/ibex/ibex
 	url = https://github.com/lowRISC/ibex.git
